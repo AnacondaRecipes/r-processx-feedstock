@@ -59,7 +59,7 @@ about:
 
 extra:
   recipe-maintainers:
-    - conda-forge/r
+    - ianaobi
 
 # Package: processx
 # Title: Execute and Control System Processes
